@@ -1,6 +1,7 @@
 # 🍅 Tomato Leaf Disease Detection using Deep Learning
 
 
+
 ## 📌 Overview
 This project applies **Convolutional Neural Networks (CNNs)** to detect and classify **tomato leaf diseases** from images. Early detection of plant diseases is crucial for improving crop yield and reducing economic losses in agriculture.  
 
