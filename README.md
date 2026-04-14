@@ -6,6 +6,7 @@ This project applies **Convolutional Neural Networks (CNNs)** to detect and clas
 The model is trained on a dataset of tomato leaf images, covering multiple disease categories (e.g., Early Blight, Late Blight, Leaf Mold) as well as healthy leaves.  
 ---
 
+
 ## 🚀 Features
 - **Image Preprocessing**: Resizing, normalization, and data augmentation (rotation, flipping, zoom).  
 - **CNN Model**: Custom architecture built with TensorFlow/Keras.  
